@@ -1,0 +1,27 @@
+# Model checkpoints
+*.pt
+*.pth
+*.ckpt
+
+# Archives and datasets
+*.zip
+data/
+*.npy
+*.npz
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Local settings
+.env
+.env.*
+.idea/
+.vscode/
+
+# System files
+.DS_Store
+Thumbs.db

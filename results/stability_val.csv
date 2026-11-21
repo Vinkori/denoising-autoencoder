@@ -1,0 +1,4 @@
+run_id,status,model,seed,lr,crop,sigma_choices,train_images,patches_per_epoch,batch_size,max_epochs,trained_epochs,optimizer_steps,best_epoch,best_val_psnr_db,best_val_ssim,amp,num_workers,total_minutes,gpu_peak_mb,trainable_parameters,checkpoint
+E2_SKIP,COMPLETED,skip_cdae,42,0.001,96,"(25,)",720,3000,32,25,25,2350,21,29.97455313205719,0.7833342634141445,True,2,1.4085042810000004,310.115234375,417059,/kaggle/working/denoising_autoencoder/runs/E2_SKIP/best.pt
+E6_SEED_7,COMPLETED,skip_cdae,7,0.001,96,"(25,)",720,3000,32,25,25,2350,25,30.065445321798325,0.7913698964752257,True,2,1.4272750328833355,309.490234375,417059,/kaggle/working/denoising_autoencoder/runs/E6_SEED_7/best.pt
+E6_SEED_123,COMPLETED,skip_cdae,123,0.001,96,"(25,)",720,3000,32,25,25,2350,21,30.19662126302719,0.800745177268982,True,2,1.424742752100004,308.865234375,417059,/kaggle/working/denoising_autoencoder/runs/E6_SEED_123/best.pt
